@@ -3,3 +3,7 @@ node_modules/
 package-lock.json
 .env
 .dev.vars
+.wrangler/
+.DS_Store
+*.jpg
+*.jpeg

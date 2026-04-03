@@ -1,0 +1,15 @@
+{
+  "name": "fi001les",
+  "version": "1.0.0",
+  "description": "## 架構升級：五大設計模式實裝",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.79.0"
+  }
+}
