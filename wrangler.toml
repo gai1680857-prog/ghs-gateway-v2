@@ -1,4 +1,4 @@
-name = "ghs-gateway-v2"
+name = "ghs-gateway-api"
 main = "worker.js"
 compatibility_date = "2024-12-01"
 
