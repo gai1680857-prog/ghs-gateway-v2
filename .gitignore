@@ -7,3 +7,5 @@ package-lock.json
 .DS_Store
 *.jpg
 *.jpeg
+.omc/
+.vscode/

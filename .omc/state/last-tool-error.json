@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"ls /Applications/ | grep -iE \\\"buttons|bitfocus|companion\\\"\",\"description\":\"Find installed Bitfocus apps\"}",
-  "error": "Exit code 2\nrg: error parsing flag -E: grep config error: unknown encoding: buttons|bitfocus|companion",
-  "timestamp": "2026-04-23T13:05:30.923Z",
-  "retry_count": 2
-}
